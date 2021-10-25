@@ -1,2 +1,1 @@
-# stack
-stack.webstream.dev
+# stack.webstream.dev
